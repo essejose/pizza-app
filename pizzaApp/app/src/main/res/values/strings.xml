@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">pizzaapp</string>
+    <string name="usuario_label">Usuario</string>
+    <string name="hint_usuario_label">Insira o usuario</string>
+    <string name="hint_password_label">insira sua senha</string>
+    <string name="button_login">Logon</string>
+    <string name="saudacao_usuario">Olá, %1$s</string>
+    <string name="info_erro_vazio">Campo %1$s vazio</string>
 </resources>

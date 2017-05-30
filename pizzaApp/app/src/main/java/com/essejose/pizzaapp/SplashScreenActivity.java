@@ -46,7 +46,7 @@ public class SplashScreenActivity extends AppCompatActivity {
                 // Após o tempo definido irá executar a próxima tela
 
                 Intent intent = new Intent(SplashScreenActivity.this,
-                        MainActivity.class);
+                        LoginActivity.class);
                 intent.setFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
                 startActivity(intent);
                 SplashScreenActivity.this.finish();
